@@ -1,4 +1,4 @@
-# Assignment for Data Structures and Algorithms 1 (University of Malta) 2017/18 - Understanding concepts of algorithms and data-structures
+# Understanding concepts of algorithms and data-structures
 
 In this unit students were asked to complete a series of tasks (`tasks.pdf`) related to the material learnt using a language of their choice to which I have chosen to use C. All code files can be found in the `code` directory corresponding to the task they tackle and the report (`report.pdf`) contains software testing (i.e. expected vs actual results). 
 
